@@ -25,7 +25,7 @@ There are some suggested "solutions" to the [knapsack problem](https://en.wikipe
 
 There may also be some interesting optimization algorithms which are capable of finding good suggested solutions if you frame this as an optimization problem. Many flavors of  [Hill Climbing](https://en.wikipedia.org/wiki/Hill_climbing) exist.  Some more advanced options include [Simulated Annealing](https://en.wikipedia.org/wiki/Simulated_annealing) and [Genetic Algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm).
 
-**Also, feel free to experiment with finding solutions intuitively by manipulating the data in an educated way. ** For example, you may be able to eliminate large areas of the feature space by eliminating food combinations that a person would be highly unlikely to eat together.
+**Also, feel free to experiment with finding solutions intuitively by manipulating the data in an educated way.** For example, you may be able to eliminate large areas of the feature space by eliminating food combinations that a person would be highly unlikely to eat together.
 
 ###Keep In Touch
 * Join the Chadev slack: http://Chadev-slackin.herokuapp.com
