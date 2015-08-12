@@ -9,11 +9,11 @@ I have created a condensed version that contains the info that **I** thought was
 Starting with one user-selected food, find a combination of 5 foods (food + portion) which meet the user’s constraints
 
 Sandra's two sets of constraints for the Mimic Fasting diet are:
-1. 1090 calories
+* 1090 calories
 	* 10% Protein
 	* 56% Fat
 	* 34% Carbs
-2. 725 calories
+* 725 calories
 	* 9% Protein
 	* 44% Fat
 	* 47% Carbs
